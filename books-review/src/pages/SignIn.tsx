@@ -1,12 +1,10 @@
 import React from 'react'
+import SigninContainer from '../containers/SinginContainer'
 
 export default function SignIn() {
 
     return (
-        <div>
-            <h1>SignIn</h1>
-
-        </div>
+        <SigninContainer />
     )
 }
 
